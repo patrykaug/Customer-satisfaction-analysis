@@ -1,2 +1,2 @@
 # Customer-satisfaction-analysis
-Machine learning analysis of customer satisfaction and future shopping behaviou
+Machine learning analysis of customer satisfaction and future shopping behaviour
