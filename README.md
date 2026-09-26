@@ -49,7 +49,7 @@ The models produced relatively similar predictive performance, while the **Decis
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **Python**
 - **Pandas** – data manipulation
